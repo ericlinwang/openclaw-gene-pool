@@ -6,9 +6,12 @@
 
 ## 🧬 基因库 名单
 
-| OpenClaw 名字 | 1. `SOUL.md` (灵魂核心) | 2. `AGENTS.md` (智能体设定) | 3. `TOOLS.md` (工具技能) | 4. `IDENTITY.md` (身份定义) | 5. `USER.md` (用户画像) |
-| :--- | :--- | :--- | :--- | :--- | :--- |
-| **feishu-openclaw**  | SOUL.md | Agents.md | TOOLS.md | IDENTITY.md | USER.md |
+| OpenClaw 名字| 文件地址 | 1. `SOUL.md` (灵魂核心) | 2. `AGENTS.md` (智能体设定) | 3. `TOOLS.md` (工具技能) | 4. `IDENTITY.md` (身份定义) | 5. `USER.md` (用户画像) |
+| :---| :---  | :--- | :--- | :--- | :--- | :--- |
+| **feishu-openclaw** | [link](https://github.com/WangLin-Eric/openclaw-gene-pool/tree/main/feishu-openclaw)| [SOUL.md](https://github.com/WangLin-Eric/openclaw-gene-pool/blob/main/feishu-openclaw/SOUL.md) | [Agents.md ](https://github.com/WangLin-Eric/openclaw-gene-pool/blob/main/feishu-openclaw/AGENTS.md) | [TOOLS.md](https://github.com/WangLin-Eric/openclaw-gene-pool/blob/main/feishu-openclaw/TOOLS.md)| IDENTITY.md | USER.md |
+
+[link](https://github.com/WangLin-Eric/openclaw-gene-pool/tree/main/feishu-openclaw)
+
 ---
 
 ## 📄 基因文件功能说明
