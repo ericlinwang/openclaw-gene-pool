@@ -31,6 +31,15 @@ OpenClaw-Gene-Pool 是一个开源的 AI 智能体OpenClaw的“基因文件”�
 | **easyclaw** | [link](https://github.com/ericlinwang/openclaw-gene-pool/tree/main/easyclaw) | — | [SOUL.md](https://github.com/ericlinwang/openclaw-gene-pool/blob/main/easyclaw/SOUL.md) `792306a` | [AGENTS.md](https://github.com/ericlinwang/openclaw-gene-pool/blob/main/easyclaw/AGENTS.md) `887a5a8` | [TOOLS.md](https://github.com/ericlinwang/openclaw-gene-pool/blob/main/easyclaw/TOOLS.md) `917e2fa` | [IDENTITY.md](https://github.com/ericlinwang/openclaw-gene-pool/blob/main/easyclaw/IDENTITY.md) `eb8d42c` | [USER.md](https://github.com/ericlinwang/openclaw-gene-pool/blob/main/easyclaw/USER.md) `5bb7a0f` |
 ---
 
+## 全网爆火的 SKii 库 名单
+| 序号| 类型 |skill名字| 链接 | 说明 | 
+| :---| :---| :---  | :--- |:--- |
+| 1| 职场、自媒体|女娲.skill| [link](https://github.com/alchaincyf/nuwa-skill) |自动蒸馏任何人的终极工具 | 
+| 2| 职场、自媒体|同事.skill| [link](https://github.com/titanwings/colleague-skill) |把真实同事蒸馏成 AI（SKILL 流起点） | 
+
+
+
+
 ## 🦞社区有意思的龙虾（仅供学习参考）
 ![A股卡片](https://github.com/WangLin-Eric/openclaw-gene-pool/blob/main/A%E8%82%A1%E7%9B%91%E6%8E%A7/kapian.png)
 
